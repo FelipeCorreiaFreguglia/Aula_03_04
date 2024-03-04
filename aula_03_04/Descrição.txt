@@ -1,0 +1,12 @@
+ex1.php Ola Mundo!
+ex2.php Concatenação de strings
+ex3.php 
+ex4.php
+ex5.php
+ex6.php
+ex7.php
+ex8.php
+ex9.php
+ex10.php
+ex11.php
+exe12.php
